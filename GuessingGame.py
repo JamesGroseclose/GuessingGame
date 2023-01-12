@@ -1,3 +1,6 @@
+# James Groseclose CIS 261
+# Guessing Game
+
 import random
 
 def display_title():
